@@ -171,6 +171,10 @@ class _CalculatorState extends State<Calculator> {
                         '/',
                         isOperator: true,
                       ),
+                      calculatorButton(
+                        '%',
+                        isOperator: true,
+                      ),
                     ],
                   ),
 
